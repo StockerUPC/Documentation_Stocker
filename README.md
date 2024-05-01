@@ -38,7 +38,7 @@ width=50%"/>
 
 ### Project Report Collaboration Insights
 
-[StyleShare GitHub](https://github.com/upc-pre-202401-SI730-WS51-StyleShare)
+[Stocker GitHub](https://github.com/StockerUPC)
 
 ![Report](Images/ReportCollaborationInsights.png)
 
