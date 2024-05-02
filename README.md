@@ -2,7 +2,11 @@ Informe del Trabajo Final </h1>
 <h3 style="text-align: center;"> Universidad Peruana de Ciencias Aplicadas </h3>
 
 
-![image](imgs/upc_logo.png)
+<img src= imgs/upc-logo.png
+style="display: block; 
+margin-left:auto; 
+margin-right: auto; 
+width=50%"/>
 
 <h5 style="text-align: center"> Ingeniería de Software</h5>
 
