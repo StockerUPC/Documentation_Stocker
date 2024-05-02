@@ -13,7 +13,7 @@ width=50%"/>
 
 <h5 style="text-align: center"> Docente: Alex Humberto Sánchez Ponce</h5>
 
-<h5 style="text-align: center"> Startup: Stocker </h5>
+<h5 style="text-align: center"> Startup: StockInnovations </h5>
 
 <h5 style="text-align: center"> Producto: Stocker </h5>
 
