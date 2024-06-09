@@ -1339,20 +1339,29 @@ En la siguiente sección presentaremos los avances en implementación con relaci
 
  #####         **5.2.1.10. Testing Suite Evidence for Sprint Review.**
 
+| Repository | Branch | Commit id | Commit Message | Commit Message Body | Commit on (Date) |
+|---|---|---|---|---|---|
+| StockerUPC/Stocker | feature | 9768cfe | Update and rename HU.feature to HU_1.feature | The name was updated because the previous one was incorrect. | 9/06-024 |
+| StockerUPC/Stocker | feature | f880d4d | Update and rename HU_.feature to HU_2.feature | The name was updated because the previous one was wrong. | 9/06-024 |
+| StockerUPC/Stocker | feature | 26ce82e | Update and rename HU__.feature to HU_3.feature | The name was updated because the previous one was wrong. | 9/06-024 |
  
 
  #####         **5.2.1.11. Execution Evidence  for Sprint Review.**
- Lo que logramos alcanzar en este sprint es la definición y correcto despliegue de nuestro startup y Web application, Esto se logró luego de  una exhaustiva investigación que realizamos    respecto a los puntos necesarios para un eficiente desarrollo del trabajo.
+ 
+Lo que logramos alcanzar en este sprint es la definición y correcto despliegue de nuestro startup, web service . Esto se logró luego de  una exhaustiva investigación que realizamos    respecto a los puntos necesarios para un eficiente desarrollo del trabajo.
 
-Tras recopilar y analizar toda la información obtenida, hemos tomado decisiones estratégicas. Esto nos ha permitido determinar cuál sería la mejor estrategia a seguir para lanzar un WebService que sobresalga entre la competencia.
 
 el apartado de web service:
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-h.png)
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-k.png)
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-l.png)
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-m.png)
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-n.png)
-
+![Images](imgs/Execution_Evidence_for_Sprint_Review_1.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_2.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_3.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_4.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_5.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_6.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_7.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_8.jpg)
+ 
+ 
 
 
 
@@ -1362,18 +1371,20 @@ Para la Revisión del Sprint 3 en Stocker, se proporcionará documentación que 
 
  #####         **5.2.1.13. Software Development Evidence for Sprint Review.**
 
-En el siguiente gráfico los procesos realizados en relación con Deployment durante este Sprint. Abarcando actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros.
+En el siguiente gráfico los procesos realizados en relación con Deployment durante este Sprint. Abarcando actividades  para la implementacion de la API.
+Se puede apreciar todas las acciones quese pueden realizar en la APi
 
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-h.png)
-En el primer apartado podemos ver en la parte del dashboard de nuestra web application donde tenemos las sales views y Inventory summary, purchase overview, product summary, sales & purchase y order summary que serían datos sobre todo nuestro inventario.
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-k.png)
-El siguiente parte es el inventario, donde veremos toda la información de nuestro inventario, overall inventory y top selling stock
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-l.png)
-El siguiente apartado es el de reportes donde se ve toda la información en forma de reportes de nuestro inventario
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-m.png)
-Apartado de proveedores donde se ve todoa la información de los proveedores, como su nombre, el producto, su numero de contacto, correo electrónico, tipo y si está en camino el producto.
-![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-n.png)
-En el apartado de órdenes se ve la información de las órdenes que realiza el usuario.
+![Images](imgs/Execution_Evidence_for_Sprint_Review_1.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_2.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_3.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_4.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_5.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_6.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_7.jpg)
+![Images](imgs/Execution_Evidence_for_Sprint_Review_8.jpg)
+
+
+
 
  #####         **5.2.1.14. Team Collaboration Insights during Sprint**
 En el siguiente gráfico se mostrará cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
