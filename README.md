@@ -1293,6 +1293,315 @@ Proporcionar un entorno de trabajo seguro en el que solo tenga acceso el usuario
 Evaluación: Proporcionar seguridad y privacidad en el espacio de trabajo del usuario para que tenga la confianza de colocar datos importantes en el software
 
 
+#####         **5.2.1.9. Sprint Planning 3.**
+ | Sprint# | Sprint 3 |
+|---|---|
+| Date | 2024-06-01 |
+| Time | 17:30 PM |
+| Location | Reunión virtual realizada en la aplicación Discord |
+| Prepared By | López Huamán, Rodrigo Adrián |
+| Attendees (to planning meeting) | Salvador Rodríguez, Rodrigo Jesús / Barturen Guzmán, Alejandro Nicolas / López Huamán, Rodrigo Adrián / Elías Sánchez, Harold Miguel / Meneses Arévalo, Victor Manuel |
+| Sprint n – 3 Review Summary | En base a lo realizado en la entrega del TP, se planteó la reunión para poder determinar más aspectos por corregir e implementar en esta entrega, como viene siendo la conexión de las API’s con el frontend y backend, además se terminó de implementar la cantidad de user stories para el proyecto. |
+| Sprint n – 3 Retrospective Summary | Se destacó la responsabilidad del equipo al asumir el “feedback” de forma positiva para poder seguir mejorando el trabajo, nuevamente notamos fortalezas al realizar la reunión y mostrar compromiso por parte de todos los miembros. Se enfocó y dividió de manera equitativa la parte de cada integrante. |
+| Sprint n Goal | El objetivo principal para esta entrega fue realizar las correcciones planteadas y seguir mejorando la interfaz del trabajo según se indique en la rúbrica y los entregables. |
+| Sprint n Velocity | Para nuestro Sprint el equipo ha establecido el uso de la escala Fibonacci corregida para determinar su complejidad y tiempo de elaboración del 1 al 5. (1, 2, 3, 5) el equipo se compromete a respetar esta escala. |
+| Sum of Story Points | Para nuestro Sprint como equipo hemos establecido un máximo de 62 User Points entre las 20 User Stories realizadas. 
+
+ #####         **5.2.1.9. Sprint Backlog 3.**
+
+El principal objetivo de los sprint backlog es la implementación de una versión del landing page que se mostrará al público general y que tenga un buen desarrollo tomando en cuenta sus funcionalidades.
+
+| ID | Title | ID | Title | Description | Estimación (Horas) | Assigned To | Status (To-do/ In-Process/ To-Review/ Done) |
+|---|---|---|---|---|---|---|---|
+| US06 | Evaluación de Desempeño de Empleados | WI-06 | Evaluación de Desempeño | Creación de una interfaz para poder realizar una evaluación de desempeño a los empleados. | 6H | Rodrigo Lopez | In-Process |
+| US07 | Registro de Compras de Clientes | WI-07 | Información de Ventas | Creación y diseño de una interfaz en la que se registre lo que compra cada cliente. | 5H | Harold Elias | In-Process |
+| US12 | Comunidad con Emprendedores | WI-12 | Comunidad Emprendedora | Creación de la interfaz donde el usuario podrá chatear en línea, comentar o publicar con cualquier trabajador o persona emprendedora que tenga relación con Stocker. | 5.5H | Victor Meneses | To-Do |
+| US17 | Compartir Logros de Ventas | WI-17 | Logros de Ventas | Creación de la interfaz donde los usuarios podrán compartir sus logros personales como empresa o trabajadores. | 7H | Rodrigo Lopez | In-Process |
+| US19 | Seguimiento de Proyectos Internos | WI-19 | Proyectos Internos | Diseño de un apartado en donde se podrá realizar el seguimiento de los proyectos de cada usuario. | 8H | Rodrigo Salvador | To-do |
+| US20 | Integración de Dispositivos Empresariales | WI-20 | Dispositivos Empresariales | Diseño de la interfaz para que los usuarios puedan implementar los dispositivos y/o herramientas que sean necesarios para ellos y mejorar su gestión. | 5.5H | Alejandro Barturen | To-do |
+
+
+A continuación se observará el espacio de trabajo que se creó en Trello para un mejor control de los sprints.
+
+![Images](imgs/trello-3.png)
+[link](https://trello.com/invite/b/g9Fc5VDO/ATTI78cc5b185caf54a6142efb039d2abd4eF07A3C5B/sprint-backlog-3)
+
+ #####         **5.2.1.10. Development Evidence for Sprint Review.**
+
+En la siguiente sección presentaremos los avances en implementación con relación a los productos de la solución según el alcance del Sprint: Landing Page, Web Applications, Web Services. 
+| Repository | Branch | Commit id | Commit Message | Commit Message Body | Commit on (Date) |
+|---|---|---|---|---|---|
+| StockerUPC/Stocker | main |  9557026 | Add 3rd Backend version | Adding 3rd Backend version files |  8/06/2024 |
+| StockerUPC/Stocker | main | ebb6611 | Delete 2nd Backend version | Deleting 2nd Backend version files | 8/06/2024 |
+| StockerUPC/Stocker | main | f6d5ef6 | Add 2nd Backend version | Adding 2nd Backend version files | 8/06/2024 |
+| StockerUPC/Stocker | main | 7306fe1 |  Delete 2nd Backend version | Deleting 2nd Backend version files | 8/06/2024 |
+| StockerUPC/Stocker | main | 8abddbd | Delete previous files | Deleting previous backend files | 4/06/2024 |
+
+ #####         **5.2.1.10. Testing Suite Evidence for Sprint Review.**
+
+ 
+
+ #####         **5.2.1.11. Execution Evidence  for Sprint Review.**
+ Lo que logramos alcanzar en este sprint es la definición y correcto despliegue de nuestro startup y Web application, Esto se logró luego de  una exhaustiva investigación que realizamos    respecto a los puntos necesarios para un eficiente desarrollo del trabajo.
+
+Tras recopilar y analizar toda la información obtenida, hemos tomado decisiones estratégicas. Esto nos ha permitido determinar cuál sería la mejor estrategia a seguir para lanzar un WebService que sobresalga entre la competencia.
+
+el apartado de web service:
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-h.png)
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-k.png)
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-l.png)
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-m.png)
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-n.png)
+
+
+
+
+ #####         **5.2.1.12. Services Documentation Evidence for Sprint Review.**
+Para la Revisión del Sprint 3 en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
+
+
+ #####         **5.2.1.13. Software Development Evidence for Sprint Review.**
+
+En el siguiente gráfico los procesos realizados en relación con Deployment durante este Sprint. Abarcando actividades de creación de cuentas, configuración de recursos en cloud providers, configuración de proyectos de desarrollo para integración o automatización de labor de Deployment, entre otros.
+
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-h.png)
+En el primer apartado podemos ver en la parte del dashboard de nuestra web application donde tenemos las sales views y Inventory summary, purchase overview, product summary, sales & purchase y order summary que serían datos sobre todo nuestro inventario.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-k.png)
+El siguiente parte es el inventario, donde veremos toda la información de nuestro inventario, overall inventory y top selling stock
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-l.png)
+El siguiente apartado es el de reportes donde se ve toda la información en forma de reportes de nuestro inventario
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-m.png)
+Apartado de proveedores donde se ve todoa la información de los proveedores, como su nombre, el producto, su numero de contacto, correo electrónico, tipo y si está en camino el producto.
+![Images](imgs/Software-Deployment-Evidence-for-Sprint-Review-n.png)
+En el apartado de órdenes se ve la información de las órdenes que realiza el usuario.
+
+ #####         **5.2.1.14. Team Collaboration Insights during Sprint**
+En el siguiente gráfico se mostrará cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
+
+![Images](imgs/Team-Collaboration-Insights-during-Sprint-2.png.png)
+
+
+### 5.3. Validation Interviews
+
+ #####         **5.3.1. Diseño de entrevistas**
+**Segmento #1 – Librerias:**
+
+- ¿Qué te llevó a utilizar la aplicación?
+- ¿Qué aspectos de la aplicación consideras más útiles para usted como dueño de una libreria?
+- ¿Qué sugerencias o mejoras crees que podrían hacer que la aplicación sea aún más útil para usuarios como tú?
+- ¿Te sientes más seguro/a al lidiar con problemas de gestión de negocio con la aplicación?
+- ¿Recomendarías Stocker Diagnostic a otros gestores de negocios?
+
+**Segmento #2 – Ferreterias:**
+
+- ¿Por qué decidiste utilizar esta aplicación?
+- ¿Qué funcionalidades de la aplicación encuentras más valiosas para tu trabajo como dueño de un restaurante?
+- ¿Qué sugerencias o mejoras crees que podrían hacer que la aplicación sea más efectiva para usuarios con roles similares al tuyo?
+- ¿La aplicación te hace sentir más seguro al manejar asuntos de gestión de negocios?
+- ¿Estarías dispuesto a sugerir Stocker Diagnostic a otros profesionales de la gestión empresarial?
+
+**Segmento #3 – Bodegas:**
+
+- ¿Cuál fue el motivo que te llevó a optar por esta aplicación?
+- ¿Qué características de la aplicación consideras más beneficiosas para ti como propietario de una Bodega?
+- ¿Qué recomendaciones o mejoras crees que podrían incrementar la utilidad de la aplicación para usuarios similares a ti?
+- ¿Sientes que la aplicación te proporciona una mayor tranquilidad al abordar cuestiones de gestión empresarial?
+- ¿Serías de la opinión de recomendar Stocker Diagnostic a otros gestores de negocios?
+
+ #####         **5.3.2. Registro de Entrevistas**
+
+Segmento #1 - Librerías:
+ Entrevistado(a) N°1:
+**Nombre:** 
+Isabel Arevalo
+**Sexo:** 
+Femenino
+**Edad:**
+61
+**Ubicación del negocio:**
+Pueblo Libre, Lima 
+ Acerca de la entrevista:
+[Link](https://youtu.be/3LFFYc8qpWY)
+**Duración:**
+4:10
+**Resumen:**
+ En la entrevista con el propietario de una librería, se destacó la necesidad de un sistema que permita un control sencillo de los productos y detalles de ingresos y egresos por día, semana y mes. El entrevistado expresó su deseo de tener un sistema que facilite el manejo de pagos tanto en línea como en efectivo, así como la capacidad de registrar gastos como electricidad y agua. Se mencionó la importancia de funciones con voz para búsqueda de productos y ventas, y la conexión directa con la plataforma de SUNAT para facturaciones. Se valoró la interfaz sencilla y didáctica, especialmente para dispositivos móviles, y la posibilidad de soporte por chat y capacitación presencial. Además, se enfatizó la necesidad de un sistema que permita un seguimiento detallado de los ingresos y egresos, facilitando así la toma de decisiones informadas sobre la gestión del negocio.
+
+ Entrevistado(a) N°2:
+**Nombre:**
+Emilia Suarez
+**Sexo:**
+Femenino
+**Edad:**
+27
+**Ubicación del negocio:**
+San Miguel, Lima 
+ Acerca de la entrevista:
+[Link](https://youtu.be/yliMqDHg83Y)
+**Duración:**
+6:40
+**Resumen:**
+En la entrevista, se destacó la necesidad de un sistema de gestión de ventas que respalde las transacciones en caso de indisponibilidad de la plataforma de la SUNAT, permitiendo el envío automático posterior de las ventas para su registro. Además, se requiere la capacidad de gestionar el stock, generar reportes temporales, analizar los horarios de mayor afluencia de clientes, ofrecer una interfaz intuitiva y visualización clara de datos, proporcionar capacitación para usuarios, integrar redes sociales para la gestión de clientes, implementar un programa de fidelización y generar reportes de gastos por cliente para ofrecer promociones personalizadas.
+
+Segmento #2 - Ferreterías:
+Entrevistado(a) N°1:
+**Nombre:**
+Freddy Condori Tacora
+**Sexo:**
+Masculino
+**Edad:**
+45
+**Ubicación del negocio:**
+Breña, Lima 
+Acerca de la entrevista:
+[Link](https://youtu.be/kVTbZlRw8R0)
+**Duración:**
+2:12
+**Resumen:**
+En la entrevista se resaltó la importancia de un sistema de gestión de ventas con facilidad para acceder a precios y calcular los ingresos del negocio, así como la necesidad de que sea multiplataforma, compatible con dispositivos móviles, tabletas y computadoras. Se requiere la capacidad de crear y emitir automáticamente facturas, boletas y proformas, además de brindar a los proveedores la opción de enviar su stock y mantener actualizados sus precios. También se mencionó la necesidad de ofrecer capacitación para el uso del sistema de forma online.
+
+Entrevistado(a) 2:
+**Nombre:**
+George Condori Tacora
+**Sexo:** Masculino
+**Edad:**
+30
+**Ubicación del negocio:**
+Breña, Lima 
+Acerca de la entrevista:
+[Link](https://youtu.be/IoGntsz3J7Y)
+**Duración:**
+2:12
+**Resumen:**
+En la entrevista, se enfatizó la necesidad de un sistema de gestión de ventas que también incorpore funciones de código de barras, registro de precios de productos, emisión de facturas y boletas, así como la capacidad de generar balances según períodos de tiempo, especialmente semanalmente, para el seguimiento de compras y ventas. Se requiere la opción de enviar promociones a través de redes sociales, particularmente por WhatsApp, así como la creación de una lista de precios actualizada. Además, se necesita una función para gestionar relaciones con proveedores, permitiendo el acceso a los precios recientes de compra de productos. Por último, se solicita capacitación presencial para el uso efectivo del sistema.
+
+Segmento #3 - Bodegas:
+ Entrevistado(a) N°1:
+**Nombre:**
+Sharon Alvarez
+**Sexo:**
+Femenino
+**Edad:**
+54
+**Ubicación del negocio:**
+Callao, Lima 
+ Acerca de la entrevista:
+[Link](https://youtu.be/ysFA6OwSMGI)
+**Duración:**  
+4:38
+**Resumen:**
+En la entrevista con el dueño de una bodega, se identificó el principal desafío como la falta de digitalización del inventario, lo que dificulta la escalabilidad del negocio. Se mencionó la dificultad para saber en qué categoría de productos se encuentra más estancada y la necesidad de llevar un registro de las fechas de caducidad de los perecibles para evitar pérdidas. Se deseaban alertas para los perecibles próximos a su caducidad, un balance de ventas por categoría y facilidad para el registro de comprobantes de compra y venta. Además, se buscaba la conexión con un chat grupal para realizar envíos de mensajes promocionales sobre productos rezagados. Se enfatizó la importancia de un sistema que permita una gestión eficiente del inventario y una mejor comunicación con los clientes, lo cual es esencial para mantener la satisfacción del cliente y maximizar las ventas.
+
+Entrevistado(a) N°2:
+**Nombre:** 
+FernandoAlvarez
+**Sexo:**
+Masculino
+**Edad:**
+29
+**Ubicación del negocio:**
+Pueblo Libre, Lima 
+ Acerca de la entrevista:
+[Link](https://youtu.be/8dNPNSlTYik)
+**Duración:**
+10:03
+**Resumen:**
+En la entrevista se subrayó la necesidad de un sistema de gestión de ventas que aborde el manejo de productos perecibles y entregas a domicilio, con integración a WhatsApp Business y su catálogo. Se requiere un reporte claro de cuentas en intervalos de tiempo, especialmente semanal, así como la capacidad de ingresar un estimado de duración para productos perecibles, con alertas automáticas para gestionar su venta antes de su vencimiento. Además, se solicitó un reporte claro de las transacciones del negocio, capacitación para el uso del sistema y la capacidad de calcular ganancias para reinversiones, gastos y ganancia neta.
+
+ 
+ #####         **5.3.3. Analisis de entrevistas**
+
+Segmento #1:
+
+
+Hallazgos:
+
+
+- Necesidades de Gestión Integral: La persona entrevistada nos comenta que uno de sus principales problemas es la necesidad de un sistema completo que le permita administrar de manera efectiva tanto el inventario de productos como los aspectos financieros de su empresa. Esto incluye un seguimiento detallado de los ingresos y egresos por períodos específicos, como día, semana y mes.
+
+
+- Facilidades en los Procesos de Pago y Facturación: La persona que fue entrevistada nos comenta sobre la importancia de tener opciones de pagos flexibles para poder realizar pagos en efectivo y en línea.  También nos comentó que es muy importante el tener conexión de manera directa con SUNAT para el tema de facturas.
+
+
+- Experiencia del Usuario y Soporte: El hecho de tener una interfaz fácil de usar y que se adapte a distintos dispositivos, es muy crucial para el buen uso de los usuarios.
+
+
+- Facilidades en los Procesos de Pago y Facturación: Se identifica la necesidad de opciones de pago flexibles que incluyan tanto pagos en efectivo como en línea, así como una conexión directa con la SUNAT para la emisión de facturas y el cumplimiento de las obligaciones tributarias.
+
+
+- Experiencia del Usuario y Soporte: Se destaca la importancia de una interfaz de usuario intuitiva y adaptable a diferentes dispositivos para garantizar una experiencia de usuario satisfactoria. Además, se observa la necesidad de contar con un soporte eficiente para resolver cualquier consulta o inconveniente que pueda surgir durante el uso del sistema.
+
+
+Segmento #2:
+
+
+Hallazgos:
+
+
+- Acceso Rápido a Precios e Ingresos: Se evidencia la importancia de contar con un sistema que permita acceder fácilmente a los precios de productos y calcular los ingresos del negocio de manera rápida y precisa.
+
+
+- Compatibilidad Multiplataforma: Se subraya la necesidad de que el sistema sea compatible con diferentes dispositivos, como móviles, tabletas y computadoras, para garantizar la accesibilidad y la flexibilidad en su uso.
+
+
+- Automatización de Documentos Financieros: Se destaca la necesidad de automatizar la creación y emisión de facturas, boletas y proformas para agilizar los procesos administrativos y financieros del negocio.
+
+
+- Gestión de Relaciones con Proveedores: Se resalta la importancia de tener una función que facilite la gestión de relaciones con proveedores, permitiendo el acceso a información actualizada sobre precios de compra y stock de productos.
+
+
+- Envío de Promociones por Redes Sociales: Se evidencia la necesidad de enviar promociones y ofertas a través de redes sociales, especialmente mediante WhatsApp, para llegar de manera efectiva a los clientes y aumentar las ventas.
+
+
+- Generación de Balances Temporales: Se menciona la importancia de generar balances y reportes financieros según períodos de tiempo específicos, como semanalmente, para realizar un seguimiento detallado de las compras y ventas y tomar decisiones estratégicas basadas en datos precisos.
+
+
+- Capacitación en el Uso del Sistema: Se resalta la necesidad de ofrecer capacitación tanto en línea como presencial para garantizar un uso efectivo y óptimo del sistema por parte de los usuarios.
+
+
+
+Segmento #3:
+
+
+Hallazgos:
+
+
+- Necesidad de Digitalización del Inventario: La persona entrevistada nos comenta que uno de sus desafíos es la falta de digitalización del inventario, dado que, esto trae dificultades para el negocio. 
+
+
+- Gestión Efectiva de Productos Perecibles: Se mencionó la dificultad para llevar un registro de las fechas de caducidad de los productos perecibles y la necesidad de evitar pérdidas asociadas con la falta de seguimiento. 
+
+
+- Mejora en la Gestión de Ventas y Comunicación con los Clientes: Se expresó el interés en contar con un balance de ventas por categoría de productos, lo que proporcionaría una visión clara sobre el rendimiento de cada línea de productos y facilitaría la toma de decisiones estratégicas.
+
+
+- Necesidad de Digitalización del Inventario: Se observa una demanda por la digitalización del inventario, lo que permitiría una gestión más eficiente de los productos y evitaría dificultades operativas para el negocio.
+
+
+- Gestión Efectiva de Productos Perecibles: Se identifica la importancia de llevar un registro preciso de las fechas de caducidad de los productos perecibles para evitar pérdidas y maximizar la rentabilidad del negocio.
+
+
+- Mejora en la Gestión de Ventas y Comunicación con los Clientes: Se destaca el interés en contar con un balance de ventas por categoría de productos, lo que proporcionaría una visión clara del rendimiento de cada línea de productos y facilitaría la toma de decisiones estratégicas. Además, se menciona la necesidad de mejorar la comunicación con los clientes para fortalecer las relaciones comerciales y fomentar la fidelización.
+
+ #####         **5.3.3. Evaluación según heurísticas**
+ - Categoría 1: Soporte al cliente
+Se debe contar con un medio de contacto por el cual los usuarios tengan una forma de comunicación con trabajadores de atención al cliente, en caso tengan algún problema técnico   
+Evaluación:  Proporcionar diferentes medio de contacto para la atención de las usuarios en caso tengan dudas o problemas 
+
+
+- Categoría 2: Instrucciones y guías
+Proporcionar una guía con indicaciones de los diferentes pasos que debe de seguir el usuario para hacer un uso correcto del software
+Evaluación:Proporcionar instrucciones que guíen al usuario en cada paso. Utilizando diferentes formas de instructivo para la comprensión del usuario   
+ 
+- Categoría 3: Control y libertad de usuarios 
+Proporcionar al usuario una forma de personalización total de su espacio de trabajo. Agregando y quitando las categorías que él considere  
+Evaluación: Proporcionar Proporcionar un total control de modificación del espacio al usuario según su preferencias 
+
+
+- Categoría 4: Seguridad y Privacidad 
+Proporcionar un entorno de trabajo seguro en el que solo tenga acceso el usuario y personas asignadas por el 
+Evaluación: Proporcionar seguridad y privacidad en el espacio de trabajo del usuario para que tenga la confianza de colocar datos importantes en el software
+
 
 ## Conclusiones
 - Durante el desarrollo de Stocker, identificamos claramente las necesidades específicas de gestión empresarial de los pequeños negocios, lo que nos permitió enfocar nuestros esfuerzos en desarrollar soluciones que abordaran estas necesidades de manera efectiva.
