@@ -37,6 +37,7 @@ width=50%"/>
 |-----------|-------------|------------|--------------------------------------------------------------------------------------------------|-----------|
 | 1.0       | 13/04/2024 | Rodrigo Adrián Lopez Huamán U202212338, Harold Miguel Elías Sanchez U202212684, Rodrigo Jesús Salvador Rodríguez U202213646, Alejandro Nicolas Barturen Guzman U202214406, Victor Manuel Meneses Arévalo U202212191 | Realizacion del documento |  COMPLETADO |
 |  TP       | 02/05/2024 | Rodrigo Adrián Lopez Huamán U202212338, Harold Miguel Elías Sanchez U202212684, Rodrigo Jesús Salvador Rodríguez U202213646, Alejandro Nicolas Barturen Guzman U202214406, Victor Manuel Meneses Arévalo U202212191 | Segunda versión del Proyecto Final (TP). Se desarrollaron todos los contenidos solicitados para el segundo avance. (Avance del frontend web application y sprint 2) | COMPLETADO |
+| 2.0       | 09/06/2024 | Rodrigo Adrián Lopez Huamán U202212338, Harold Miguel Elías Sanchez U202212684, Rodrigo Jesús Salvador Rodríguez U202213646, Alejandro Nicolas Barturen Guzman U202214406, Victor Manuel Meneses Arévalo U202212191 | Tercera versión del Proyecto Final (TB3). Se desarrollaron todos los contenidos solicitados para el tercer avance. (Avance del frontend y backend web application y sprint 3) | COMPLETADO |
 
 ## Project Report Collaboration Insights:
 ![image](imgs/project-collaboration-insights-a.png)
@@ -1273,7 +1274,7 @@ Hallazgos:
 - Mejora en la Gestión de Ventas y Comunicación con los Clientes: Se destaca el interés en contar con un balance de ventas por categoría de productos, lo que proporcionaría una visión clara del rendimiento de cada línea de productos y facilitaría la toma de decisiones estratégicas. Además, se menciona la necesidad de mejorar la comunicación con los clientes para fortalecer las relaciones comerciales y fomentar la fidelización.
 
  #####         **5.3.3. Evaluación según heurísticas**
- - ategoría 1: Soporte al cliente
+ - Categoría 1: Soporte al cliente
 Se debe contar con un medio de contacto por el cual los usuarios tengan una forma de comunicación con trabajadores de atención al cliente, en caso tengan algún problema técnico   
 Evaluación:  Proporcionar diferentes medio de contacto para la atención de las usuarios en caso tengan dudas o problemas 
 
