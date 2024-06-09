@@ -1388,9 +1388,14 @@ Se puede apreciar todas las acciones quese pueden realizar en la APi
 
  #####         **5.2.1.14. Team Collaboration Insights during Sprint**
 En el siguiente gráfico se mostrará cómo se han desarrollado las actividades de implementación y se presenta capturas en imagen de los analíticos de colaboración y commits en GitHub, realizados por los miembros del equipo.
+Documentation_Stocker
+![Images](imgs/Team_Collaboration_Insights_during_Sprint_1.png)
 
-![Images](imgs/Team-Collaboration-Insights-during-Sprint-2.png.png)
+TB3-Stocker_Backend
+![Images](imgsTeam_Collaboration_Insights_during_Sprint_2.png)
 
+TB3-Stocker_Fontend
+![Images](imgs/Team_Collaboration_Insights_during_Sprint_3.png)
 
 ### 5.3. Validation Interviews
 
