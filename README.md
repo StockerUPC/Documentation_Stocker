@@ -1660,6 +1660,14 @@ Testing Suite Evidence for Sprint Review.
 
 Execution Evidence for Sprint Review.
 
+![Images](imgs/a.png)
+![Images](imgs/b.png)
+![Images](imgs/c.png)
+![Images](imgs/d.png)
+![Images](imgs/e.png)
+![Images](imgs/f.png)
+![Images](imgs/g.png)
+![Images](imgs/h.png)
 
 
 Services Documentation Evidence for Sprint Review.
@@ -1669,14 +1677,55 @@ Para la Revisión del Sprint 4 en Stocker, se proporcionará documentación que 
 
 Software Deployment Evidence for Sprint Review.
 
+![Images](imgs/1.png)
+![Images](imgs/2.png)
+![Images](imgs/4.png)
+![Images](imgs/5.png)
+![Images](imgs/6.png)
+![Images](imgs/7.png)
+![Images](imgs/8.png)
+![Images](imgs/9.png)
+
 
 Team Collaboration Insights during Sprint.
 
+Stocker-Backend-TF 
+![Images](imgs/a1.png)
+
+Stocker-Frotend-TF 
+![Images](imgs/b2.png)
+
+Stocker-Report-TF 
+![Images](imgs/c3.png)
 
 Validation Interviews.
 
-
 Diseño de Entrevistas.
+
+Segmento #1 – Librerias:
+
+¿Crees que nuestra aplicación te ha ayudado a ahorrar tiempo al gestionar tu negocio?
+¿Cuál fue la característica que más te facilitó tus tareas?
+¿Notaste un incremento en la productividad de tu negocio?
+¿Considerarías seguir usando Stocker en el futuro?
+¿Piensas que es fácil de usar para las personas mayores?
+¿Sentiste que tomaste mejores decisiones para tu negocio gracias a los reportes del sistema?
+
+2.  	Segmento #2 – Bodegas:
+
+- ¿Nuestra aplicación te ha permitido administrar tu negocio de manera más eficiente?
+- ¿Qué función te resultó más útil para realizar tus tareas?
+- ¿Percibiste una mejora en la productividad de tu negocio?
+- ¿Seguirías utilizando Stocker en adelante?
+- ¿Te parece que la aplicación es intuitiva para las personas mayores?
+- ¿Crees que los reportes del sistema te ayudaron a tomar decisiones más acertadas para tu negocio?
+3. Segmento #3 – Ferreterías:
+- ¿Sientes que ahorraste tiempo con nuestra aplicación al manejar tu negocio?
+- ¿Qué funcionalidad te ayudó más en tus labores diarias?
+- ¿Observaste un aumento en la productividad de tu negocio?
+- ¿Estarías dispuesto a continuar usando Stocker en el futuro?
+- ¿Consideras que es fácil de usar para personas mayores?
+- ¿Crees que tomaste mejores decisiones para tu negocio utilizando los reportes del sistema?
 
 
 Registro de Entrevistas.
