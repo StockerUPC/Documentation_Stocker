@@ -1900,14 +1900,14 @@ Wolters Kluwer. (2023). Software de gestión para pymes: ¿Qué programa elegir?
 Anexo A:
 
 About the team:
-[anexo](https://drive.google.com/file/d/1PsQF70AEYbeC3bUXOPvt6jvPAQmokqGD/view?usp=sharing)
+[anexo]([https://drive.google.com/file/d/1PsQF70AEYbeC3bUXOPvt6jvPAQmokqGD/view?usp=sharing](https://drive.google.com/file/d/14OMX94R32oLOhCmWfR_39hbcbMR-iQD2/view?usp=sharing))
  
 
 
 Anexo B:
 
 About the product:
-[anexo](https://drive.google.com/file/d/1fMOsiZvfrDBGjeyo8SgU6-4q1mMiGt_-/view?usp=sharing)
+[anexo]([https://drive.google.com/file/d/1fMOsiZvfrDBGjeyo8SgU6-4q1mMiGt_-/view?usp=sharing](https://drive.google.com/file/d/1thOupScno9kbOI29R7OtXfLe3dax_VUX/view?usp=sharing))
 
 
 
@@ -1915,4 +1915,4 @@ About the product:
 Anexo C:
 
 Power point:
-[anexo](https://docs.google.com/presentation/d/1Sx-tq-tG3nIM0DnGoB69n-u7-BE4oeEWAdgrUtDbDSY/edit?usp=sharing)
+[anexo]([https://docs.google.com/presentation/d/1Sx-tq-tG3nIM0DnGoB69n-u7-BE4oeEWAdgrUtDbDSY/edit?usp=sharing](https://docs.google.com/presentation/d/1eFwzIJ42cQ-99pyx-i0t9PXP6qfHSS2mYqvsLa4A79A/edit?usp=sharing))
