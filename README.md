@@ -1652,10 +1652,18 @@ Sprint Backlog 4
 
 
 Development Evidence for Sprint Review.
-
+| Repository | Branch | Commit id | Commit Message | Commit Message Body | Commit on (Date) |
+|---|---|---|---|---|---|
+| StockerUPC/TF-Stocker_Backend | main |  e144be9 | feat(finalBackend version)!: adding Backend files | Adding Backend files | 27/06/2024 |
+|  StockerUPC/TF-Stocker_Frontend | main | 3dde80d | feat(final frontend version)!: adding Frontend files | Adding frontend files |  27/06/2024 |
+| tockerUPC/Documentation-Stocker | main | 4f5b06e | Update Readme | Adding new documentation files | 27/06/2024 |
 
 Testing Suite Evidence for Sprint Review.
-
+| Repository | Branch | Commit id | Commit Message | Commit Message Body | Commit on (Date) |
+|---|---|---|---|---|---|
+| StockerUPC/Stocker | feature | 7ccba5f | Añadiendo HU-01 | Se añade HU-01.feature | 27/06/2024 |
+| StockerUPC/Stocker | feature | 8862d77 | Añadiendo HU-01 | Se añade HU-02.feature | 27/06/2024 |
+| StockerUPC/Stocker | feature | 48223e1 | Añadiendo HU-01 | Se añade HU-03.feature | 27/06/2024 |
 
 
 Execution Evidence for Sprint Review.
