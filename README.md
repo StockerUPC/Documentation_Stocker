@@ -44,12 +44,13 @@ width=50%"/>
 ![image](imgs/project-collaboration-insights-b.png)
 
 ### Student Outcome
-
-|Criterio Especifico|Acciones Realizadas|
-|-------------------|-------------------|
-|La capacidad de funcionar efectivamente en un
-equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de
-colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos| Para abordar el Student Outcome 5 de ABET - EAC, se implementaron diversas estrategias centradas en fortalecer las habilidades de trabajo en equipo de los estudiantes. Esto se logró mediante la asignación de proyectos colaborativos que requerían una planificación conjunta de tareas y la consecución de objetivos definidos. Además, se promovió activamente la participación en actividades que permitían a los estudiantes asumir roles de liderazgo, facilitando así el desarrollo de habilidades de liderazgo efectivas. Para crear un entorno de colaboración e inclusión, se fomentaron valores de respeto mutuo, diversidad de opiniones y trabajo armonioso hacia metas comunes. |
+| Entregables | Criterio específico | Acciones realizadas |
+|:---:|:---:|:---:|
+| Entregable: TB1 | La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos | Para abordar el Student Outcome 5 de ABET - EAC, se implementaron diversas estrategias centradas en fortalecer las habilidades de trabajo en equipo de los estudiantes. Esto se logró mediante la asignación de proyectos colaborativos que requerían una planificación conjunta de tareas y la consecución de objetivos definidos. Además, se promovió activamente la participación en actividades que permitían a los estudiantes asumir roles de liderazgo, facilitando así el desarrollo de habilidades de liderazgo efectivas. Para crear un entorno de colaboración e inclusión, se fomentaron valores de respeto mutuo, diversidad de opiniones y trabajo armonioso hacia metas comunes. |
+| Entregable: TP | La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos | Las acciones realizadas en esta entrega consto de repartirnos el trabajo de la manera mas eficiente para un desarrollo exitoso, Un par de integrantes se dedicaron a realizar la primera version del codigo de la pagina mientras que los demas se centraron en realizar una documentacion lo mas precisa posible |
+| Entregable: TB2 | La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos | En esta entrega aun se mantenia la metodologia de la anterior TB en la de dividirnos el trabajo de manera eficiente en grupos y que cada grupo organize su propia reunion  |
+| Entregable: TB3 | La capacidad de funcionar efectivamente en un equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos | en esta entrega uno de los 3 encargados de realizar la documentacion se tuvo que transferir al grupo de los que realizan el codigo para que apoye en el labor de relaizar el frontedn mienstras que el par que sobre se encargo del realizamiento del documento esto incluyenfo la realizacion de lso videos "about the product", "about the team" y las entrevista y pasar el documento al repositoria del markdown |
+| Entregable: TF | La capacidad de funcionar efectivamente en un equipo cuyos mienbros juntos proporcionan liderazgo, crean un entorno de colaboracion e inclusivo, establecen objetivos, planifican tares y cumplen objetivos | se replico la metodologia de la entrega de la tb anterior |
 
 ## Contenido
 
@@ -1716,12 +1717,31 @@ Software Deployment Evidence for Sprint Review.
 ![Images](imgs/b.png)
 ![Images](imgs/c.png)
 ![Images](imgs/d.png)
+
+También contamos con el apartado de contacto, para que el usuario que desee comunicarse, tenga ese apartado para comentar sus dudas acerca de la página o sobre nosotros como empresa.
 ![Images](imgs/e.png)
+
+A continuación, en la parte derecha se presenta el botón de “Iniciar Sesión” para que podamos ingresar desde nuestra cuenta, además en caso de no tener cuenta, tenemos la opción del registro, colocar sus datos y poder acceder a su cuenta a través del inicio de sesión cuando sea necesario.
 ![Images](imgs/f.png)
 ![Images](imgs/g.png)
+
+
+Una vez ingresado y/o registrado a Stocker, podremos verificar que tenemos 3 apartados a la izquierda, que son el Inventario, Proveedores y clientes.
+Para inventarios tenemos lo que son las categorías y los productos, al lado derecho tenemos un botón verde con el signo “+” que quiere decir para agregar las categorías y los productos que se encuentren en la tienda de abarrotes.
 ![Images](imgs/h.png)
+
+Ejemplo de cómo se visualiza al agregarlo:
 ![Images](imgs/i.png)
+
+Luego, en el apartado de los proveedores, tenemos la opción de Compras y Proveedores, que presenta la misma característica que en el inventario, el mismo botón de “+” para agregar.
 ![Images](imgs/j.png)
+![Images](imgs/1.png)
+
+Y finalmente, el apartado de los clientes en el que se presentan las ventas y los clientes, presentando las mismas características para agregar información con relación a productos.
+![Images](imgs/2.png)
+![Images](imgs/3.png)
+
+A continuación presentamos la API de Stocker, en el que sale todos los schemas, autenticación, categorías, usuarios, suscripciones, etc.
 ![Images](imgs/k.png)
 ![Images](imgs/l.png)
 ![Images](imgs/m.png)
@@ -1849,11 +1869,6 @@ Evaluación: Proporcionar Proporcionar un total control de modificación del esp
 Categoría 4: Seguridad y Privacidad 
 Proporcionar un entorno de trabajo seguro en el que solo tenga acceso el usuario y personas asignadas por el 
 Evaluación: Proporcionar seguridad y privacidad en el espacio de trabajo del usuario para que tenga la confianza de colocar datos importantes en el software  . 
-
-
-About the product 
-
-About the team 
 
 
 
