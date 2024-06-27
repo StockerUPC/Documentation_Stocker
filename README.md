@@ -1618,6 +1618,41 @@ Evaluación: Proporcionar Proporcionar un total control de modificación del esp
 Proporcionar un entorno de trabajo seguro en el que solo tenga acceso el usuario y personas asignadas por el 
 Evaluación: Proporcionar seguridad y privacidad en el espacio de trabajo del usuario para que tenga la confianza de colocar datos importantes en el software
 
+Sprint 4 
+
+Spring Planning 4 
+| Sprint# | Sprint 4 |
+|---|---|
+| Date | 2024-06-25 |
+| Time | 3:30 PM |
+| Location | Reunión virtual realizada en la aplicación Discord |
+| Prepared By | Barturen Guzman, Alejandro Nicoals |
+| Attendees (to planning meeting) | Salvador Rodríguez, Rodrigo Jesús / Barturen Guzmán, Alejandro Nicolas / López Huamán, Rodrigo Adrián / Elías Sánchez, Harold Miguel / Meneses Arévalo, Victor Manuel |
+| Sprint n – 4 Review Summary | Se completaron las funcionalidades que tratan sobre que desde Stocker se puedan agregar nuevos elementos a la  API. Como equipo habíamos debatido lo que se debe corregir, implementar y mejorar, y se decidió que se agregaría las conexiones faltantes de Stocker con la API como puede ser la conexión de inventario con la API |
+| Sprint n – 4 Retrospective Summary | Se destacó la importancia de completar las funcionalidades mencionadas anteriormente, además que se reconoció lo importante de la comunicación en el trabajo en equipo. Se enfatizó la importancia de una planificación más detallada  |
+| Sprint n Goal | El objetivo que tenemos es agregar  la funcionalidad de la opción de “inventario”, la métrica del cumpliento será su completo desarrollo y la prueba exitosa de estas características. |
+| Sprint n Velocity | Para nuestro Sprint el equipo ha establecido el uso de la escala Fibonacci para determinar su complejidad y tiempo de elaboración del 1 al 8. (1, 2, 3, 5, 8), el equipo se compromete a respetar esta escala. |
+| Sum of Story Points | Para nuestro Sprint como equipo hemos establecido un máximo de 35 User Points entre las 7 User Stories realizadas. |
+
+
+Sprint Backlog 4
+| ID | Title | ID | Title | Description | Estimación(Horas) | Assigned To | Status(To do/In Process/Done) |
+|---|---|---|---|---|---|---|---|
+| US18 | Reportes de Actividad	 | WI-27 | Crear reportes de actividad	 | Desarrollar la funcionalidad para generar reportes de actividad del usuario.	 | 3 | Harold Elias	 | To-do |
+| US09 | Notificaciones | WI-28 | Implementar sistema de notificaciones	 | Desarrollar un sistema de notificaciones para eventos importantes.	 | 5 | Alejandro Barturen	 | In-Process |
+| US21 | Seguridad de Datos	 | WI-29 | Implementar autenticación de 2 factores	 | Añadir autenticación de dos factores para mejorar la seguridad de los datos.	 | 3 | Víctor Meneses	 | To-do |
+| US11 | Personalización de Perfil	 | WI-30 | Añadir opciones de personalización	 | Desarrollar funcionalidades para que los usuarios personalicen su perfil.	 | 2 | Rodrigo López	 | To-do |
+| US17 | Integración con Redes Sociales	 | WI-31 | Añadir opciones de personalización	 | Permitir a los usuarios compartir información en redes sociales.	 | 2 | Rodrigo Salvador	 | In-Process |
+| US04 | Soporte Multilenguaje	 | WI-32 | Implementar soporte multilenguaje	 | Añadir soporte para múltiples idiomas en la aplicación.	 | 5 | Harold Elias	 | Done |
+| US13 | Analytics	 | WI-33 | Implementar sistema de analytics	 | Desarrollar un sistema de análisis de datos para medir el uso y el rendimiento.	 | 3 | Harold Elias	 | Done |
+
+
+![Images](imgs/trello-4.png)
+Link de Trello:[Link]([https://youtu.be/3LFFYc8qpWY](https://trello.com/invite/b/xB0OQGLH/ATTI1002f764f1386e0f846e067b4e3df2881F563F8D/spring-backlog-4))
+
+
+
+
 
 ## Conclusiones
 - Durante el desarrollo de Stocker, identificamos claramente las necesidades específicas de gestión empresarial de los pequeños negocios, lo que nos permitió enfocar nuestros esfuerzos en desarrollar soluciones que abordaran estas necesidades de manera efectiva.
