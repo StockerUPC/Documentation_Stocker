@@ -1667,6 +1667,43 @@ Testing Suite Evidence for Sprint Review.
 
 
 Execution Evidence for Sprint Review.
+Vista Pagina pricipal:
+![Images](imgs/a.png)
+![Images](imgs/b.png)
+![Images](imgs/c.png)
+![Images](imgs/d.png)
+
+Para contactarnos:
+![Images](imgs/e.png)
+
+Vista login:
+![Images](imgs/f.png)
+
+Para Registrarse
+![Images](imgs/g.png)
+
+El Inventario sin agregar, y luego de agregar categorías y productos.
+![Images](imgs/h.png)
+![Images](imgs/i.png)
+
+Ahora lo mismo pero con los proveedores:
+![Images](imgs/j.png)
+![Images](imgs/k.png)
+
+Y se repite este mismo procedimiento para los clientes:
+![Images](imgs/l.png)
+![Images](imgs/m.png)
+
+A continuación se evidenciará la API de nuestro Producto: 
+![Images](imgs/n.png)
+![Images](imgs/o.png)
+
+Services Documentation Evidence for Sprint Review.
+
+Para la Revisión del Sprint 4 en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
+
+
+Software Deployment Evidence for Sprint Review.
 
 ![Images](imgs/a.png)
 ![Images](imgs/b.png)
@@ -1676,24 +1713,13 @@ Execution Evidence for Sprint Review.
 ![Images](imgs/f.png)
 ![Images](imgs/g.png)
 ![Images](imgs/h.png)
-
-
-Services Documentation Evidence for Sprint Review.
-
-Para la Revisión del Sprint 4 en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
-
-
-Software Deployment Evidence for Sprint Review.
-
-![Images](imgs/1.png)
-![Images](imgs/2.png)
-![Images](imgs/4.png)
-![Images](imgs/5.png)
-![Images](imgs/6.png)
-![Images](imgs/7.png)
-![Images](imgs/8.png)
-![Images](imgs/9.png)
-
+![Images](imgs/i.png)
+![Images](imgs/j.png)
+![Images](imgs/k.png)
+![Images](imgs/l.png)
+![Images](imgs/m.png)
+![Images](imgs/n.png)
+![Images](imgs/o.png)
 
 Team Collaboration Insights during Sprint.
 
