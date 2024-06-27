@@ -1688,14 +1688,21 @@ El Inventario sin agregar, y luego de agregar categorías y productos.
 
 Ahora lo mismo pero con los proveedores:
 ![Images](imgs/j.png)
-![Images](imgs/k.png)
+![Images](imgs/1.png)
+
 
 Y se repite este mismo procedimiento para los clientes:
-![Images](imgs/l.png)
-![Images](imgs/m.png)
+![Images](imgs/2.png)
+![Images](imgs/3.png)
+
 
 A continuación se evidenciará la API de nuestro Producto: 
+![Images](imgs/k.png)
+![Images](imgs/l.png)
+![Images](imgs/m.png)
 ![Images](imgs/n.png)
+
+Además se puede evidenciar los Schemas:
 ![Images](imgs/o.png)
 
 Services Documentation Evidence for Sprint Review.
