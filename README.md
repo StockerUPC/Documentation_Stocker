@@ -1648,8 +1648,47 @@ Sprint Backlog 4
 
 
 ![Images](imgs/trello-4.png)
-Link de Trello:[Link]([https://youtu.be/3LFFYc8qpWY](https://trello.com/invite/b/xB0OQGLH/ATTI1002f764f1386e0f846e067b4e3df2881F563F8D/spring-backlog-4))
+[Link]([https://youtu.be/3LFFYc8qpWY](https://trello.com/invite/b/xB0OQGLH/ATTI1002f764f1386e0f846e067b4e3df2881F563F8D/spring-backlog-4))
 
+
+Development Evidence for Sprint Review.
+
+
+Testing Suite Evidence for Sprint Review.
+
+
+
+Execution Evidence for Sprint Review.
+
+
+
+Services Documentation Evidence for Sprint Review.
+
+Para la Revisión del Sprint 4 en Stocker, se proporcionará documentación que resuma las historias de usuario completadas durante el sprint, junto con una demostración visual de las características desarrolladas, a través de capturas de pantalla o una presentación en vivo. Además, se presentarán los resultados de las pruebas realizadas durante el sprint, destacando cualquier problema identificado y las soluciones aplicadas. 
+
+
+Software Deployment Evidence for Sprint Review.
+
+
+Team Collaboration Insights during Sprint.
+
+
+Validation Interviews.
+
+
+Diseño de Entrevistas.
+
+
+Registro de Entrevistas.
+
+
+
+Evaluaciones según heurísticas.
+
+
+About the product 
+
+About the team 
 
 
 
