@@ -1729,10 +1729,85 @@ Segmento #1 – Librerias:
 
 
 Registro de Entrevistas.
+Entrevistado(a) N°1 (Librerías):
+Nombre: Jose Arevalo
+o   Sexo: Masculino
+o   Edad: 29
+o   Ubicación del negocio: Pueblo Libre, Lima 
+ Acerca de la entrevista:
+o   [Link](https://youtu.be/XO2FiVoXFHs)
+o   Duración: 3:35
+o   Resumen: Jose Arevalo, propietario de una librería en Pueblo Libre, Lima, expresó que el uso de la aplicación Stocker ha sido fundamental para ahorrar tiempo en la administración de su negocio. La funcionalidad de inventario automatizado ha sido especialmente útil, permitiéndole tener un control preciso y en tiempo real de los libros disponibles. Gracias a la aplicación, Jose ha notado un aumento significativo en la productividad de su librería, ya que puede dedicar más tiempo a atender a sus clientes. Además, mencionó que la aplicación es bastante intuitiva, incluso para personas mayores, y planea seguir utilizándola en el futuro. La información detallada que brindan los reportes del sistema le ha permitido tomar mejores decisiones para su negocio.
 
+Entrevistado(a) N°2 (Librerías):
+Nombre: Emilia Suarez
+o   Sexo: Femenino
+o   Edad: 27
+o   Ubicación del negocio: Pueblo Libre, Lima 
+ Acerca de la entrevista:
+o   [Link](https://youtu.be/XO2FiVoXFHs)
+o   Duración: 4:01
+o   Resumen: Emilia Suarez, propietaria de una librería en Pueblo Libre, Lima, destacó que la aplicación Stocker ha sido esencial para la eficiencia operativa de su negocio. La funcionalidad más destacada para ella ha sido el sistema de gestión de inventarios, que le ha permitido mantener un registro preciso y actualizado de los libros en stock. Emilia ha experimentado una mejora notable en la productividad de su librería, ya que la aplicación ha reducido significativamente el tiempo dedicado a la gestión manual. Asimismo, encuentra la aplicación muy intuitiva y fácil de usar, incluso para personas mayores, y tiene la intención de seguir utilizándola debido a los beneficios observados. Los reportes del sistema han sido cruciales para tomar decisiones informadas y estratégicas para su negocio.
+
+Entrevistado(a) N°3 (Ferreteria):
+Nombre: Renzo Condori Tacora
+o   Sexo: Masculino
+o   Edad: 24
+o   Ubicación del negocio: Breña, Lima
+ Acerca de la entrevista:
+o   [Link](https://youtu.be/hWsqo4W9vk0)
+o   Duración: 6:01
+o   Resumen: Renzo Condori Tacora, dueño de una ferretería en Breña, Lima, afirmó que la aplicación Stocker ha sido una herramienta invaluable para la administración de su negocio. La funcionalidad de gestión de pedidos ha sido particularmente útil, permitiéndole manejar de manera eficiente las solicitudes de los clientes y reabastecer su inventario oportunamente. Renzo ha observado un incremento en la productividad de su ferretería, ya que puede atender más pedidos en menos tiempo y con mayor precisión. Además, considera que la aplicación es intuitiva y accesible, incluso para personas mayores. Renzo planea seguir utilizando Stocker en el futuro debido a las mejoras significativas en la operatividad de su ferretería y la información detallada que proporcionan los reportes del sistema, lo cual le ayuda a tomar decisiones más acertadas.
+
+Entrevistado(a) N°4 (Ferreteria):
+Nombre: Erick Condori Tabares
+o   Sexo: Masculino
+o   Edad: 25
+o   Ubicación del negocio: Breña, Lima
+ Acerca de la entrevista:
+o   [Link](https://youtu.be/_nYRYEhUtjs)
+o   Duración: 6:00
+o   Resumen: Erick Condori Tabares, propietario de una ferretería en Breña, Lima, destacó que la aplicación Stocker ha sido crucial para la gestión diaria de su negocio. La funcionalidad que más le ha beneficiado es el módulo de gestión de inventarios, permitiéndole mantener un control preciso y en tiempo real de sus productos. Erick ha notado un aumento en la productividad de su ferretería, ya que la aplicación ha reducido el tiempo dedicado a tareas manuales y ha mejorado la eficiencia operativa. Además, mencionó que la aplicación es fácil de usar e intuitiva, incluso para personas mayores. Erick planea continuar utilizando Stocker en el futuro, ya que la información detallada y los reportes del sistema le han permitido tomar decisiones más informadas y estratégicas para su negocio.
+
+Entrevistado(a) N°5 (Bodegas):
+Nombre: Steven Alvarez
+o   Sexo: Masculino
+o   Edad: 25
+o   Ubicación del negocio: Callao, Lima 
+ Acerca de la entrevista:
+o   [Link](https://youtu.be/t-ygXYYsPPk)
+o   Duración: 5:02
+o   Resumen: Steven Alvarez, dueño de una bodega en Callao, Lima, expresó que la aplicación Stocker ha sido fundamental para ahorrar tiempo en la administración de su negocio, especialmente en la gestión de inventarios y ventas. La funcionalidad que más facilitó sus tareas fue la gestión de ventas, permitiéndole realizar un seguimiento exacto de las transacciones diarias y manejar mejor su flujo de caja. Steven ha experimentado un aumento en la productividad de su bodega, ya que la aplicación ha reducido errores y mejorado la eficiencia operativa. Además, considera que la aplicación es intuitiva y fácil de usar, incluso para personas mayores. Steven tiene la intención de seguir utilizando Stocker en el futuro, ya que los reportes detallados que brinda el sistema le permiten tomar decisiones más acertadas para su negocio.
+
+Entrevistado(a) N°6 (Bodegas):
+Nombre: Michael Alvarez
+o   Sexo: Masculino
+o   Edad: 25
+o   Ubicación del negocio: Pueblo Libre, Lima 
+ Acerca de la entrevista:
+o   [Link](https://youtu.be/7VjPt853XzI)
+o   Duración: 3:24
+o   Resumen: Michael Alvarez, propietario de una bodega en Pueblo Libre, Lima, indicó que ha ahorrado tiempo considerable usando la aplicación Stocker para la administración de su negocio, principalmente en la gestión de inventarios y ventas. La funcionalidad de gestión de inventarios ha sido especialmente útil, permitiéndole mantener un registro preciso y actualizado de los productos. Michael ha notado un incremento en la productividad de su bodega, ya que la aplicación ha mejorado significativamente la eficiencia operativa y reducido el tiempo dedicado a tareas manuales. Además, considera que la aplicación es fácil de usar e intuitiva, incluso para personas mayores. Michael planea seguir utilizando Stocker en el futuro debido a las mejoras claras en la gestión de su bodega y la información detallada que brindan los reportes del sistema, lo cual le permite tomar decisiones más informadas y estratégicas.
 
 
 Evaluaciones según heurísticas.
+Categoría 1: Soporte al cliente
+Se debe contar con un medio de contacto por el cual los usuarios tengan una forma de comunicación con trabajadores de atención al cliente, en caso tengan algún problema técnico   
+Evaluación:  Proporcionar diferentes medio de contacto para la atención de las usuarios en caso tengan dudas o problemas 
+
+
+Categoría 2: Instrucciones y guías
+Proporcionar una guía con indicaciones de los diferentes pasos que debe de seguir el usuario para hacer un uso correcto del software
+Evaluación:Proporcionar instrucciones que guíen al usuario en cada paso. Utilizando diferentes formas de instructivo para la comprensión del usuario   
+ 
+Categoría 3: Control y libertad de usuarios 
+Proporcionar al usuario una forma de personalización total de su espacio de trabajo. Agregando y quitando las categorías que él considere  
+Evaluación: Proporcionar Proporcionar un total control de modificación del espacio al usuario según su preferencias 
+
+
+Categoría 4: Seguridad y Privacidad 
+Proporcionar un entorno de trabajo seguro en el que solo tenga acceso el usuario y personas asignadas por el 
+Evaluación: Proporcionar seguridad y privacidad en el espacio de trabajo del usuario para que tenga la confianza de colocar datos importantes en el software  . 
 
 
 About the product 
